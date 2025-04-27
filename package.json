@@ -1,5 +1,5 @@
 {
-  "name": "playwright-helpers",
+  "name": "@varunrk56/playwright-helpers-library",
   "version": "1.0.0",
   "main": "index.js",
   "scripts": {
