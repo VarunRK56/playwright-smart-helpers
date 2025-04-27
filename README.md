@@ -2,8 +2,6 @@
 
 Reusable Playwright helper functions with built-in **retry logic**, **smart logging**, and clean APIs.
 
-![npm](https://img.shields.io/npm/v/playwright-smart-helpers)
-![license](https://img.shields.io/github/license/yourusername/playwright-smart-helpers)
 
 ---
 
