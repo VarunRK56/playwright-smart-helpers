@@ -1,0 +1,32 @@
+# Node modules
+node_modules/
+
+# Logs
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# IDE/editor folders
+.vscode/
+.idea/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Build artifacts (if you add any)
+dist/
+build/
+
+# Environment files
+.env
+.env.*
+
+# Screenshots or test artifacts
+*.png
+*.jpg
+*.jpeg
+*.mp4
+
+# Ignore local test files (optional)
+examples/
